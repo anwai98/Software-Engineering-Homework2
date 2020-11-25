@@ -13,7 +13,7 @@
 ### - Problem 4 : Pascal Triangle
 
 ## Q5 :
-### - Problem 5 : Pascal Value
+### - Problem 5 : Pointer - Maximum Value
 
 ## Q6 :
 ### - Problem 6 : Accept Five Integer Values from Keyword
